@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Brian Manomaisupat</h1>
+<h1 align="left">Hi 👋, I'm Brian </h1>
 
 <h2 align="left">About me:</h2>
 
